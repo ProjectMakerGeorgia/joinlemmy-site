@@ -1,0 +1,20 @@
+[submodule "lemmy-docs"]
+	path = lemmy-docs
+	url = https://github.com/ProjectMakerGeorgia/lemmy-docs
+	branch = main
+[submodule "joinlemmy-translations"]
+	path = joinlemmy-translations
+	url = https://github.com/ProjectMakerGeorgia/joinlemmy-translations
+	branch = main
+[submodule "lemmy-translations"]
+	path = lemmy-translations
+	url = https://github.com/ProjectMakerGeorgia/lemmy-translations
+	branch = main
+[submodule "lemmy-instance-stats"]
+	path = lemmy-instance-stats
+	url = https://github.com/ProjectMakerGeorgia/lemmy-instance-stats
+	branch = main
+[submodule "lemmy-js-client"]
+	path = lemmy-js-client
+	url = https://github.com/ProjectMakerGeorgia/lemmy-js-client
+	branch = main
